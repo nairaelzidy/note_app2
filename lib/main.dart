@@ -4,7 +4,7 @@ import 'package:notes_app/screen/notes_screen.dart';
 void main() {
   runApp(const MyApp());
 }
-//welcome naira
+// change theme
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
